@@ -22,7 +22,7 @@ body{
         background: #fff;
         border-radius: 24px;
         padding: 25px;
-        box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+        box-shadow: 0 5px 10px rgba(0,0,0,0.3);
         position: relative;
     }
 .profile-card::before{
